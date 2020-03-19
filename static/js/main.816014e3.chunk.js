@@ -1,0 +1,2 @@
+(this["webpackJsonpjava-diagram-generator"]=this["webpackJsonpjava-diagram-generator"]||[]).push([[0],{3:function(e,a,r){e.exports=r(8)},8:function(e,a,r){"use strict";r.r(a);var t=r(0),n=r.n(t),c=r(2);var s=function(){return n.a.createElement("div",{className:"App"},n.a.createElement("header",{className:"App-header"}))};r.n(c).a.render(n.a.createElement(s,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.816014e3.chunk.js.map
